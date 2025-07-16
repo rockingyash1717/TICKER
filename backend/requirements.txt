@@ -1,7 +1,8 @@
-fastapi
-httpx
-cachetools
-google-generativeai
-yfinance
-python-dotenv
-pandas
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+pandas==2.2.2
+httpx==0.27.0
+cachetools==5.3.3
+google-generativeai==0.5.3
+yfinance==0.2.40
+python-dotenv==1.0.1
