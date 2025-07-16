@@ -1,0 +1,7 @@
+fastapi
+httpx
+cachetools
+google-generativeai
+yfinance
+python-dotenv
+pandas
