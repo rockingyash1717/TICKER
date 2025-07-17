@@ -2,6 +2,8 @@
 
 A FastAPI-based market sentiment analysis tool that provides real-time stock momentum analysis and news sentiment evaluation using AI.
 
+<img width="1920" height="1080" alt="Screenshot 2025-07-16 204235" src="https://github.com/user-attachments/assets/7ceab09d-5833-437f-8470-7cdfe2cfc758" />
+
 ## 🚀 Features
 
 - **Real-time Stock Analysis**: Get price momentum scores based on recent trading data
